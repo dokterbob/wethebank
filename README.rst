@@ -22,4 +22,15 @@ Principles
 * Trust is established on exchanges
 * Automated trading algorithms for overall value maximization
 
+Tools
+-----
+* PKI, HTTPS
+* Explicit manual trust and account management
+* Web front-end
+* (Decent mobile compatibility)
+* (Interactive OAuth2 payment authentication)
+* Django/Python? Ruby on Rails? ASM? ... Java!?
 
+Like the idea?
+--------------
+Join in, `fork us <https://github.com/dokterbob/wethebank/fork_select>`_ - or just send us a message, will you? =)
