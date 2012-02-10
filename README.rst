@@ -31,6 +31,12 @@ Tools
 * (Interactive OAuth2 payment authentication)
 * Django/Python? Ruby on Rails? ASM? ... Java!?
 
+Use cases
+---------
+1. When person X has to pay Y, X pays Y in a currency shared amongst X and Y. A transfer of units happends within their common bank.
+2. When person X has to pay Y and there are no common currencies between them, the currencies will be automatically traded on an exchange shared by banks.
+3. Person X deposits an amount of money, gold, stocks, pledges or other valueables at Bank Z. Bank Z uses this value as countervalue to create new units of its currency. It might or might not apply fractional reserve banking or expand other forms of credit.
+
 Like the idea?
 --------------
 Join in, `fork us <https://github.com/dokterbob/wethebank/fork_select>`_ - or just send us a message, will you? =)
