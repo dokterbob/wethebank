@@ -1,6 +1,6 @@
-=========
-wethebank
-=========
+=========================================
+`wethebank.org <http://wethebank.org>`_
+=========================================
 
 Decentralized banking research project
 --------------------------------------
